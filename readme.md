@@ -321,7 +321,7 @@ using conversational AI and semantic search. Its graph weaves siloed data into a
 
 Dataverse illuminates the data ecosystem like never before - enabling knowledge, trust, and action.
 
-👉 Watch a ![short video teaser](https://www.youtube.com/watch?v=V9GdwOr-BaY) below to see Dataverse in action!
+👉 Watch a [![short video teaser](dataverse.png)](http://www.youtube.com/watch?v=V9GdwOr-BaY) below to see Dataverse in action!
 
 👉 Check out the link below for more in-depth details on Dataverse's technical architecture and capabilities.
 
